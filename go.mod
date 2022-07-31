@@ -1,4 +1,4 @@
-module github.com/google/docsy
+module github.com/pertrai1/docsy
 
 go 1.12
 
